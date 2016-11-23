@@ -53,4 +53,12 @@
 { "id":52,	"name":"Harry Potter",			"world":"Harry Potter" },
 { "id":53,	"name":"Lord Voldemort",		"world":"Harry Potter" },
 { "id":55,	"name":"B.A. Baracus",			"world":"A-Team" }
+{ "id":56,	"name":"Newt",    		"world":"Fantastic Beast" },
+{ "id":57,	"name":"Sonic",	    	"world":"The Hedgehog" },
+{ "id":58,	"name":"FUTURE UPDATE",		"world":"" },
+{ "id":59,	"name":"Gizmo",			"world":"Gremlins" },
+{ "id":60,	"name":"Stripe",		"world":"Gremlins" },
+{ "id":61,	"name":"E.T.",			"world":"The Extra-Terrestrial" },
+{ "id":62,	"name":"Tina",			"world":"Fantastic Beast" },
+{ "id":63,	"name":"Marceline",			"world":"Adventure Time" },
 ]
